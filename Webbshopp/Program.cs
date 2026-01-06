@@ -6,7 +6,7 @@ namespace Webbshopp
     {
         static void Main(string[] args)
         {
-            Menu.DealMenu();
+            Menu.StartMenu();
         }
     }
 }
